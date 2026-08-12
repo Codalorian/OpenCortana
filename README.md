@@ -19,7 +19,7 @@ Here are some specifications for OpenCortana:
 
 **Here is how to set up OpenCortana:**
 
-'''bash
+```bash
 Download and install Python and Pip for your operating system:
 https://www.python.org/downloads/
 
@@ -28,4 +28,4 @@ Then, a setup script will install all the python libraries needed, download Olla
 python3 setup.py
 
 After this, the main executable should be in the OpenCortana project folder.
-'''
+```
